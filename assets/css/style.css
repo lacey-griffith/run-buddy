@@ -59,7 +59,11 @@ section {
 
 /* Hero style start */
 .hero {
+<<<<<<< HEAD
     background-image: url('https://static.fullstack-bootcamp.com/module-1/hero-bg.jpg');
+=======
+    background-image: url("/Users/laceyg/Desktop/projects/run-buddy/assets/images/hero-bg.jpg");
+>>>>>>> 474af5bcd6b0e8a7e26920221dd25dc0b9d1ef23
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -95,11 +99,9 @@ section {
     margin: 0 5px;}
 
 .hero-form button {
-    background-color:#024e76;
     color:#fce138;
+    background-color:#024e76;
     padding:10px 20px;
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
     border:none;}
-
 /* hero styling end */

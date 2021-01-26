@@ -226,3 +226,23 @@ section {
 .text-right {
     text-align: right;
 }
+
+/* half guess, half thinking I'm close */
+.reach-out {
+    text-align:center;
+    background-color:#024e76;
+    width: 900px;
+    margin-bottom:25px;
+}
+
+.reach-out h3 {
+    color:#fce138;
+    font-size: 16px;
+}
+
+.reach-out p {
+    color:white;
+    font-size: 10px;
+    margin:3px;
+    line-height: 1.5;
+}

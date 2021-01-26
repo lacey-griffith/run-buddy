@@ -228,21 +228,38 @@ section {
 }
 
 /* half guess, half thinking I'm close */
-.reach-out {
-    text-align:center;
+.contact {
+    text-align: center;
     background-color:#024e76;
-    width: 900px;
-    margin-bottom:25px;
-}
+ }
 
-.reach-out h3 {
-    color:#fce138;
-    font-size: 16px;
-}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+ }
 
-.reach-out p {
+ .contact-info div {
+    width: 420px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 20px 0 0 60px;
     color:white;
-    font-size: 10px;
-    margin:3px;
+}
+
+ .contact-info h3 {
+    color: #fce138;
+    font-size: 30px;
+    margin: 0 0 0 20px;
+}
+
+.contact h2, .contact-info a {
+    color:#fce138;
+}
+
+.contact-info p, .contact-info address {
+    margin: 25px;
     line-height: 1.5;
+    font-size: 18px;
+    font-style: normal;
 }

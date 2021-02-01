@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Lacey G
+
+### ©️2019 Run buddy, Inc

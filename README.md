@@ -1,5 +1,4 @@
 # Run Buddy Inc
--- initiating remote merge conflict
 
 ## Purpose
 A website that offers fitness training services.

@@ -475,6 +475,7 @@ section {
     .contact-info iframe {
         flex: 1 100%;
     }
+}
 /* MEDIA QUERY tablets and smaller */
 @media screen and (max-width: 768px) {
   section {
